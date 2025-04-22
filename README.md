@@ -68,26 +68,7 @@ Seaborn, Matplotlib
 
 Scikit-learn (LogisticRegression, KMeans, metrics)
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/product-return-prediction.git
-cd product-return-prediction
-Install dependencies (preferably in a virtual environment):
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the notebook or Python script:
-
-bash
-Copy
-Edit
-python return_prediction_analysis.py
 
 📈 Future Improvements
 Include more ML models (Random Forest, XGBoost, etc.)
